@@ -1,5 +1,5 @@
 # Programacion Entera Grafica
-Aplicación Python que resuelve un problema de optimización con librería Pulp
+Aplicación realizada en `Python 3.11` que resuelve un problema de optimización con librería Pulp
 
 ## Librerías Usadas
 ### Pulp
